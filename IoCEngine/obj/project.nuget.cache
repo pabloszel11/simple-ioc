@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VanGyZCP06JuNyiFTijCY/Nr1L3mmf2lTzw7/nNvCwfd/dEfLMzlM8nURvHil7sxGI5C9ifhU5/XW192pVUdGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\C5315422\\source\\repos\\uni\\IoCEngine\\IoCEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\C5315422\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\C5315422\\.nuget\\packages\\unity\\5.11.10\\unity.5.11.10.nupkg.sha512"
+  ],
+  "logs": []
+}
